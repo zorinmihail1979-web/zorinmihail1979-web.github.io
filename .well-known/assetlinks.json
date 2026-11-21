@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.audiobookplayer",
+      "sha256_cert_fingerprints": [
+        "CF:4F:22:51:D6:06:99:7A:49:36:13:73:C4:55:78:77:C1:C1:5F:C4:ED:4A:D8:69:CA:8A:16:DC:93:43:76:CB"
+      ]
+    }
+  }
+]
